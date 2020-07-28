@@ -1,6 +1,6 @@
-### Запуск сайта
+# Запуск сайта
 
-# Должен быть установлен parcel
+### Должен быть установлен parcel - https://parceljs.org/
 
 ```
 parcel index.html
